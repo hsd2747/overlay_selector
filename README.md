@@ -2,7 +2,7 @@
 
 Widget that allows you to select items to sort using overlays.
 
-![image](https://raw.githubusercontent.com/hsd2747/overlay_selector/master/doc/overlay_play.gif)
+![image](https://raw.githubusercontent.com/hsd2747/overlay_selector/master/doc/overlay_play.gif){: width="50%" height="50%"}
 
 ## Getting Started
 
