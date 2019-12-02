@@ -1,6 +1,8 @@
 # overlay_selector
 
-A new flutter plugin project.
+Widget that allows you to select items to sort using overlays.
+
+![image](https://raw.githubusercontent.com/hsd2747/overlay_selector/master/doc/overlay_play.gif)
 
 ## Getting Started
 
